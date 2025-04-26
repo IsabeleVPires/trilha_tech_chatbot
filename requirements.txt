@@ -6,6 +6,7 @@ gradio
 python-dotenv
 ipykernel
 streamlit
+PyMuPDF
 plotly
 aiofiles==23.2.1
 aiohappyeyeballs==2.6.1
