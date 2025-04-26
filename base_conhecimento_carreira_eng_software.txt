@@ -1,0 +1,79 @@
+Base de Conhecimento – Carreira em Engenharia de Software
+
+1. Linguagens de Programação Mais Utilizadas
+
+As linguagens mais utilizadas atualmente no mercado de tecnologia são:
+
+JavaScript: muito usada para desenvolvimento web (front-end e back-end).
+
+Python: versátil e popular em áreas como automação, análise de dados, inteligência artificial e back-end.
+
+Java: muito adotada por grandes empresas, especialmente em sistemas corporativos.
+
+C#: usada para aplicações Windows e desenvolvimento com a plataforma .NET.
+
+SQL: linguagem essencial para manipulação de bancos de dados relacionais.
+
+2. Tendências do Mercado para 2025
+Algumas das principais tendências da área de tecnologia e Engenharia de Software são:
+
+Inteligência Artificial e Machine Learning: alta demanda por profissionais que saibam treinar e aplicar modelos.
+
+Computação em Nuvem: domínio de plataformas como AWS, Azure ou Google Cloud.
+
+Segurança da Informação: com o aumento de ataques cibernéticos, essa área está em crescimento.
+
+Desenvolvimento Low-code/No-code: ferramentas que facilitam o desenvolvimento sem escrever muito código.
+
+Desenvolvimento Sustentável (Green IT): foco em soluções tecnológicas com menor impacto ambiental.
+
+3. Áreas e Caminhos de Especialização
+Desenvolvedor Front-end: trabalha com a parte visual de sites e aplicações, usando HTML, CSS, JavaScript e frameworks como React.
+
+Desenvolvedor Back-end: cuida da parte lógica e estrutural, com linguagens como Java, Python, Node.js, etc.
+
+Full Stack: combina front-end e back-end.
+
+Engenharia de Dados: coleta, organiza e prepara dados para análise. Foco em Python, SQL, Spark e bancos de dados.
+
+Cientista de Dados: analisa e interpreta dados para gerar insights.
+
+DevOps: automatiza processos de desenvolvimento, testes e deploy.
+
+Engenharia de Qualidade/Testes: garante que o software funcione corretamente.
+
+Segurança da Informação: protege dados e sistemas contra invasões.
+
+4. Plataformas Recomendadas para Estudo
+Udemy: cursos acessíveis em várias áreas de tecnologia.
+
+Coursera: cursos de universidades renomadas, como Stanford e USP.
+
+Alura: plataforma brasileira com foco em tecnologia.
+
+DIO (Digital Innovation One): bootcamps gratuitos.
+
+freeCodeCamp: conteúdo gratuito sobre desenvolvimento web.
+
+YouTube: muitos canais de ensino técnico com conteúdo atualizado.
+
+5. Recomendações com Base em Interesses
+Gosto de SQL → ideal para Engenharia de Dados, Análise de Dados ou Business Intelligence.
+
+Gosto de lógica de programação → pode se dar bem em Back-end, Desenvolvimento de Algoritmos ou IA.
+
+Gosto de design → pode seguir para UI/UX Design ou Front-end.
+
+Gosto de resolver problemas e organizar processos → boa opção: DevOps ou Gestão de Projetos Ágeis.
+
+6. Certificações Valorizadas
+AWS Certified Cloud Practitioner – introdução à nuvem.
+
+Microsoft Azure Fundamentals – cloud da Microsoft.
+
+Scrum Foundation – para metodologias ágeis.
+
+Oracle Certified Associate (OCA) – para quem quer seguir com Java.
+
+Google Data Analytics Certificate – área de dados.
+
